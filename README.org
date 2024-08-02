@@ -1,0 +1,49 @@
+#+TITLE: mnist-keras Project
+* Overview
+This project is a playground for studying machine learning techniques. It
+contains the "hello, world" of machine learning programs: [[https://en.wikipedia.org/wiki/MNIST_database#:~:text=The%20MNIST%20database%20(Modified%20National,training%20various%20image%20processing%20systems.][MNIST]] handwritten
+image classification. High-level frameworks like Keras make it easy to build a
+model with 97% accuracy in under a hundred lines of code. 
+** Learning Goals
+- [ ] Understand [[https://youtu.be/VMj-3S1tku0?si=DP_3O9cJaTAkWWzN][neural networks]] at a [[https://youtu.be/aircAruvnKk?si=3B7fAkIg_L13WQvo][high-level]]
+  - [ ] Neurons modeled as a mathematical / functional graph
+  - [ ] Representation as [[https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations/v/linear-combinations-and-span][linear combinations]] and basic [[https://youtu.be/fNk_zzaMoSs?si=RyxJYfhLcry4wyww][linear algebra]]
+    - [ ] Weights, biases, activation functions
+    - [ ] [[https://youtu.be/Ilg3gGewQ5U?si=ECiAVCVOcOvG_ZUw][Back-propagation]], [[https://youtu.be/tIeHLnjs5U8?si=oYLibvjf4u0W7gqr][differentiation]], [[https://youtu.be/AXqhWeUEtQU?si=wFsFBSyuqFAewbd5][partial]] [[https://youtu.be/ly4S0oi3Yz8?si=ARonsRGt2M-QT_MP][derivatives]], [[https://youtu.be/IHZwWFHWa-w?si=27mzINUeHkHVHMAz][gradient descent]]
+    - [ ] Hyperparameters, regularization
+- [ ] Kinds of Networks and their applications
+  - [ ] Deep Networks, GANs, RNNs, CNNs, Transformers, GPTs
+- [ ] Tuning and Visualization Tools
+- [ ] Data
+  - [ ] Arrays, Tensors
+  - [ ] Training, Validation, Test Data
+  - [ ] Manipulation and Cleaning
+  - [ ] Statistics and Feature Selection
+- [-] Tools and Libraries
+  - [-] Python
+    - [X] [[https://keras.io/][Keras]]
+    - [X] [[https://pytorch.org/][Pytorch]]
+    - [ ] [[https://www.tensorflow.org/][Tensorflow]]
+    - [ ] [[https://jax.readthedocs.io/en/latest/quickstart.html][JAX]]
+    - [X] [[https://numpy.org/doc/stable/user/basics.html][Numpy]]
+    - [ ] [[https://pandas.pydata.org/docs/user_guide/10min.html][Pandas]]
+    - [ ] Scipy
+    - [ ] sklearn
+    - [ ] [[https://matplotlib.org/][Matplotlib]]
+  - [ ] Clojure
+    - [ ] [[https://neanderthal.uncomplicate.org/][Neanderthal]]
+    - [ ] Metamorph
+    - [ ] [[https://github.com/scicloj][Scicloj]]
+    - [ ] tech.ml.dataset / [[https://github.com/scicloj/tablecloth][Tablecloth]]
+** More Resources
+- Calculus
+  - [[https://calculusmadeeasy.org/][Made Easy]]
+    - [[https://calculusmadeeasy.org/16.html][Partial Differentiation]]
+  - Book (Strang)
+  - [[https://www.wolfram.com/wolfram-u/courses/mathematics/introduction-to-calculus/][Wolfram]]
+- Linear Algebra
+  - [[https://aiprobook.com/numerical-linear-algebra-for-programmers/][Clojure Book]]
+- Deep Learning
+  - [[https://www.deeplearningbook.org/][MIT Book]]
+  - [[https://aiprobook.com/deep-learning-for-programmers/][Clojure Book]]
+- [[https://youtu.be/SmZmBKc7Lrs?si=d-DnSbmRnzJ0PgHN][Backpropagation]]
