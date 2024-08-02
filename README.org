@@ -5,12 +5,12 @@ contains the "hello, world" of machine learning programs: [[https://en.wikipedia
 image classification. High-level frameworks like Keras make it easy to build a
 model with 97% accuracy in under a hundred lines of code. 
 ** Learning Goals
-- [ ] Understand [[https://youtu.be/VMj-3S1tku0?si=DP_3O9cJaTAkWWzN][neural networks]] at a [[https://youtu.be/aircAruvnKk?si=3B7fAkIg_L13WQvo][high-level]]
-  - [ ] Neurons modeled as a mathematical / functional graph
-  - [ ] Representation as [[https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations/v/linear-combinations-and-span][linear combinations]] and basic [[https://youtu.be/fNk_zzaMoSs?si=RyxJYfhLcry4wyww][linear algebra]]
-    - [ ] Weights, biases, activation functions
-    - [ ] [[https://youtu.be/Ilg3gGewQ5U?si=ECiAVCVOcOvG_ZUw][Back-propagation]], [[https://youtu.be/tIeHLnjs5U8?si=oYLibvjf4u0W7gqr][differentiation]], [[https://youtu.be/AXqhWeUEtQU?si=wFsFBSyuqFAewbd5][partial]] [[https://youtu.be/ly4S0oi3Yz8?si=ARonsRGt2M-QT_MP][derivatives]], [[https://youtu.be/IHZwWFHWa-w?si=27mzINUeHkHVHMAz][gradient descent]]
-    - [ ] Hyperparameters, regularization
+- [X] Understand [[https://youtu.be/VMj-3S1tku0?si=DP_3O9cJaTAkWWzN][neural networks]] at a [[https://youtu.be/aircAruvnKk?si=3B7fAkIg_L13WQvo][high-level]]
+  - [X] Neurons modeled as a mathematical / functional graph
+  - [X] Representation as [[https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations/v/linear-combinations-and-span][linear combinations]] and basic [[https://youtu.be/fNk_zzaMoSs?si=RyxJYfhLcry4wyww][linear algebra]]
+    - [X] Weights, biases, activation functions
+    - [X] [[https://youtu.be/Ilg3gGewQ5U?si=ECiAVCVOcOvG_ZUw][Back-propagation]], [[https://youtu.be/tIeHLnjs5U8?si=oYLibvjf4u0W7gqr][differentiation]], [[https://youtu.be/AXqhWeUEtQU?si=wFsFBSyuqFAewbd5][partial]] [[https://youtu.be/ly4S0oi3Yz8?si=ARonsRGt2M-QT_MP][derivatives]], [[https://youtu.be/IHZwWFHWa-w?si=27mzINUeHkHVHMAz][gradient descent]]
+    - [X] Hyperparameters, regularization
 - [ ] Kinds of Networks and their applications
   - [ ] Deep Networks, GANs, RNNs, CNNs, Transformers, GPTs
 - [ ] Tuning and Visualization Tools
