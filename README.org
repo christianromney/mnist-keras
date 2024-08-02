@@ -39,7 +39,7 @@ model with 97% accuracy in under a hundred lines of code.
 - Calculus
   - [[https://calculusmadeeasy.org/][Made Easy]]
     - [[https://calculusmadeeasy.org/16.html][Partial Differentiation]]
-  - Book (Strang)
+  - [[https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf][Book (Strang)]]
   - [[https://www.wolfram.com/wolfram-u/courses/mathematics/introduction-to-calculus/][Wolfram]]
 - Linear Algebra
   - [[https://aiprobook.com/numerical-linear-algebra-for-programmers/][Clojure Book]]
